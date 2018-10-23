@@ -3,7 +3,7 @@ import asyncio
 import aiohttp
 
 
-URL = f'http://localhost:8050/ws/random_number'
+URL = 'http://localhost:8050/ws/random_number'
 
 
 async def main():
